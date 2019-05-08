@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+jupyter-config/jupyter_server_config.d/myextension.json
+myextension.egg-info/PKG-INFO
+myextension.egg-info/SOURCES.txt
+myextension.egg-info/dependency_links.txt
+myextension.egg-info/not-zip-safe
+myextension.egg-info/top_level.txt
